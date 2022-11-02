@@ -26,9 +26,11 @@ of this two we need to take decision.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library pandas - version 0.25.1
+- library numpy - version 1.16.5
+- library matplotlib - version 3.1.1
+- library re - version 2.2.1
+- library scipy - version 1.3.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
